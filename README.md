@@ -9,7 +9,8 @@
 
 
 20200427-springcloud-rpc1
-	包括：20200427-springcloud-rpc1-consumer（消费者）
+	包括：
+	         20200427-springcloud-rpc1-consumer（消费者）
 		rpc+定义bean  
 		rpc+web中注入springCloud提供的RestTemplate
 		eureka+引用jar包 启动类加入注解@EnableDiscoveryClient
