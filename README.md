@@ -2,10 +2,11 @@
 
 
 第二天SpringCloud
-	eureka
-	浏览器打开  http://localhost:7081/ 
-	浏览器打开  http://localhost:8081/ConBook
-	第一个打开看到eureka的界面 其中有消费者和提供者为eureka成功，第二个打开出现数据为项目成功
+
+		eureka
+		浏览器打开  http://localhost:7081/ 
+		浏览器打开  http://localhost:8081/ConBook
+		第一个打开看到eureka的界面 其中有消费者和提供者为eureka成功，第二个打开出现数据为项目成功
 
 
 20200427-springcloud-rpc1
